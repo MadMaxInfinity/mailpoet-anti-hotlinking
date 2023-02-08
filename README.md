@@ -1,4 +1,4 @@
-# mailpoet-anti-spam
+# mailpoet-anti-hotlinking
 Simple PHP code snippet to fight hotlinking when using MailPoet plugin (tested with 4.6.0).
 
 When using MailPoet, you can add posts (with its featured image), woocommerce products (same thing) and any image you want to your emails. But this also means that those files must be accessible whatever directory they are in, from whatever webmail your users use.
